@@ -89,5 +89,3 @@ int main()
 	system("pause");
 	return 0;
 }
-
-// https://youtu.be/2hNdkYInj4g?t=1379
